@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# pytest
+.pytest_cache/
+
+# Allure: результаты добавляются в репозиторий принудительно (git add -f)
+allure_results/
